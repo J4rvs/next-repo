@@ -1,5 +1,5 @@
 import styles from './page.module.css';
-import React from '../../../../libs/products/src/lib/react';
+import Product from '../../../../libs/products/src/lib/product';
 
 export default function Index() {
   /*
@@ -11,7 +11,7 @@ export default function Index() {
     <div className={styles.page}>
       <h1>Welcome to b2b!</h1>
 
-      <React />
+      <Product />
     </div>
   );
 }

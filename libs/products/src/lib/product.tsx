@@ -1,7 +1,7 @@
 /* eslint-disable-next-line */
 export interface ReactProps {}
 
-export function React(props: ReactProps) {
+export function Product(props: ReactProps) {
   return (
     <div>
       <h1>This is a react app</h1>
@@ -9,4 +9,4 @@ export function React(props: ReactProps) {
   );
 }
 
-export default React;
+export default Product;
