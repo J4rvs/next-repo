@@ -1,5 +1,5 @@
 {
-  "name": "@jarvs/ui-components",
+  "name": "@jarvs-sdk/ui-components",
   "version": "0.0.1",
   "description": "Enhance NgRx component-store by providing a loading/error state",
   "publishConfig": {
