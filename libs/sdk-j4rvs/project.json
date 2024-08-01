@@ -1,0 +1,29 @@
+{
+  "name": "sdk-j4rvs",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/sdk-j4rvs/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/rollup:rollup",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/sdk-j4rvs",
+        "tsConfig": "libs/sdk-j4rvs/tsconfig.lib.json",
+        "project": "libs/sdk-j4rvs/package.json",
+        "entryFile": "libs/sdk-j4rvs/src/index.ts",
+        "external": ["react", "react-dom", "react/jsx-runtime"],
+        "rollupConfig": "@nx/react/plugins/bundle-rollup",
+        "compiler": "swc",
+        "assets": [
+          {
+            "glob": "libs/sdk-j4rvs/README.md",
+            "input": ".",
+            "output": "."
+          }
+        ]
+      }
+    }
+  }
+}
