@@ -4,7 +4,7 @@ export interface FooProps {}
 export function Foo(props: FooProps) {
   return (
     <div>
-      <h1>Welcome to FooFigthers!!!!!</h1>
+      <h1>FooFigthers!!!!!</h1>
     </div>
   );
 }
