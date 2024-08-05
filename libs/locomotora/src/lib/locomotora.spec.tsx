@@ -1,10 +1,10 @@
 import { render } from '@testing-library/react';
 
-import Foo from './foo';
+import Locomotora from './locomotora';
 
-describe('Foo', () => {
+describe('Locomotora', () => {
   it('should render successfully', () => {
-    const { baseElement } = render(<Foo />);
+    const { baseElement } = render(<Locomotora />);
     expect(baseElement).toBeTruthy();
   });
 });

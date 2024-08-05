@@ -1,7 +1,7 @@
 {
-  "name": "foo",
+  "name": "locomotora",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/foo/src",
+  "sourceRoot": "libs/locomotora/src",
   "projectType": "library",
   "tags": [],
   "targets": {
@@ -9,26 +9,20 @@
       "executor": "@nx/rollup:rollup",
       "outputs": ["{options.outputPath}"],
       "options": {
-        "outputPath": "dist/libs/foo",
-        "tsConfig": "libs/foo/tsconfig.lib.json",
-        "project": "libs/foo/package.json",
-        "entryFile": "libs/foo/src/index.ts",
+        "outputPath": "dist/libs/locomotora",
+        "tsConfig": "libs/locomotora/tsconfig.lib.json",
+        "project": "libs/locomotora/package.json",
+        "entryFile": "libs/locomotora/src/index.ts",
         "external": ["react", "react-dom", "react/jsx-runtime"],
         "rollupConfig": "@nx/react/plugins/bundle-rollup",
         "compiler": "swc",
         "assets": [
           {
-            "glob": "libs/foo/README.md",
+            "glob": "libs/locomotora/README.md",
             "input": ".",
             "output": "."
           }
         ]
-      }
-    },
-    "release": {
-      "executor": "nx-release:build-update-publish",
-      "options": {
-        "libName": "foo"
       }
     }
   }

@@ -17,9 +17,9 @@
     "paths": {
       "@jarvs/ui-components": ["libs/sdk-j4rvs/src/index.ts"],
       "@jarvs/ui-components/server": ["libs/sdk-j4rvs/src/server.ts"],
-      "jarvs-mrtz/foo": ["libs/foo/src/index.ts"],
-      "jarvs-mrtz/foo/server": ["libs/foo/src/server.ts"],
-      "@next-repo/react": ["libs/products/src/index.ts"]
+      "@next-repo/react": ["libs/products/src/index.ts"],
+      "jarvs-mrtz/foo": ["libs/locomotora/src/index.ts"],
+      "jarvs-mrtz/foo/server": ["libs/locomotora/src/server.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
