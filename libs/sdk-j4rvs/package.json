@@ -1,0 +1,27 @@
+{
+  "name": "@jarvs-sdk/ui-components",
+  "version": "0.0.1",
+  "description": "Enhance NgRx component-store by providing a loading/error state",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/J4rvs/next-repo/tree/main/libs/sdk-j4rvs"
+  },
+  "keywords": [
+    "next",
+    "ui",
+    "j4rvs/ui-components"
+  ],
+  "author": {
+    "name": "J4rvs"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
