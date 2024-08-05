@@ -1,5 +1,5 @@
 {
-  "name": "@mycompany/foo",
+  "name": "jarvs-mrtz/foo",
   "version": "0.0.1",
   "publishConfig": {
     "access": "public"
