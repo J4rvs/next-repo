@@ -1,4 +1,5 @@
 import styles from './page.module.css';
+// eslint-disable-next-line @nx/enforce-module-boundaries
 import Product from '../../../../libs/products/src/lib/product';
 
 export default function Index() {
