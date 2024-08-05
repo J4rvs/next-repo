@@ -1,5 +1,7 @@
 name: RELEASE
-on: ['main']
+on:
+  push:
+    branches: ['main']
 jobs:
   main:
     runs-on: ubuntu-latest
