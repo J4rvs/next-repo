@@ -17,6 +17,8 @@
     "paths": {
       "@jarvs/ui-components": ["libs/sdk-j4rvs/src/index.ts"],
       "@jarvs/ui-components/server": ["libs/sdk-j4rvs/src/server.ts"],
+      "@mycompany/foo": ["libs/foo/src/index.ts"],
+      "@mycompany/foo/server": ["libs/foo/src/server.ts"],
       "@next-repo/react": ["libs/products/src/index.ts"]
     }
   },
