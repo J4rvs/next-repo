@@ -1,0 +1,21 @@
+## 1.0.0 (2024-08-05)
+
+### Features
+
+* add lib ([44aa1cf](https://github.com/J4rvs/next-repo/commit/44aa1cfe860031e6c09957c04ba5e3b239562c8f))
+* added foo ([6e53119](https://github.com/J4rvs/next-repo/commit/6e53119c0e5368c0baee212556af0710a52157e2))
+* added locomotora ([f7e598a](https://github.com/J4rvs/next-repo/commit/f7e598ad44ac4b98617de193ddbc63c1c71c4fb3))
+* added minor change ([91f83b6](https://github.com/J4rvs/next-repo/commit/91f83b63ebfc9cb49ae9ca527dadf5acb6e7e6b8))
+* added product ([0ead4dd](https://github.com/J4rvs/next-repo/commit/0ead4dde32369210a39ab26ca7ecbddc43ed2a20))
+* added react lib ([03ca3b9](https://github.com/J4rvs/next-repo/commit/03ca3b9b2620b899f0ec316a9ca6033b7c49e665))
+* change in foo ([a8c4b25](https://github.com/J4rvs/next-repo/commit/a8c4b252972be6c5ce42b095dc6d077edf2cb7bf))
+* changed foo componente ([776df6a](https://github.com/J4rvs/next-repo/commit/776df6aeabd612fd7701c6c2f951dfd87ccfb7c4))
+* githuv ([115820f](https://github.com/J4rvs/next-repo/commit/115820f6b7a94f5d4d3d01fb2eb9126286a356b8))
+* minor change ([070fb7d](https://github.com/J4rvs/next-repo/commit/070fb7d20c981e4a1c95584bdb0d335c75bb2f80))
+* minor change ([6a3b491](https://github.com/J4rvs/next-repo/commit/6a3b49184c29a9a7ead42cf7f4d33422473ea3cd))
+* minor change ([3a02246](https://github.com/J4rvs/next-repo/commit/3a0224658f6f6889b19ca0c6935ba89b93074120))
+* minor change ([189abc2](https://github.com/J4rvs/next-repo/commit/189abc271ab0a9a5bbe5ec4e37f35d7d859d570b))
+* minor change ([4378484](https://github.com/J4rvs/next-repo/commit/4378484ebbf09a83652d72562832cdf659ad1e46))
+* minor change ([49fa8f7](https://github.com/J4rvs/next-repo/commit/49fa8f7453fdb872063c8967ee3cb52e9b5c8ee8))
+* minor change ([7940db6](https://github.com/J4rvs/next-repo/commit/7940db6e46727621c8c3136565b0c62bf2601e8c))
+* node version ([df74dae](https://github.com/J4rvs/next-repo/commit/df74dae5877af7f9df47fe8bc186c42d0db1a51a))
