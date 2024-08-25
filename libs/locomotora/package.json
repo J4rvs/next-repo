@@ -1,6 +1,5 @@
 {
-  "name": "jarvs-mrtz/foo",
-  "version": "0.0.1",
+  "name": "jarvs-mrtz/locomotora",
   "publishConfig": {
     "access": "public"
   }
